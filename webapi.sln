@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "webapi", "webapi\", "{0890F854-4A14-4170-8D1F-0CA5EAB2578B}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_5181"
+		Debug.AspNetCompiler.PhysicalPath = "webapi\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_5181\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_5181"
+		Release.AspNetCompiler.PhysicalPath = "webapi\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_5181\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "5181"
+		SlnRelativePath = "webapi\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0890F854-4A14-4170-8D1F-0CA5EAB2578B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0890F854-4A14-4170-8D1F-0CA5EAB2578B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABCF551F-5C1A-4BF7-85C5-786EB9D8753E}
+	EndGlobalSection
+EndGlobal
